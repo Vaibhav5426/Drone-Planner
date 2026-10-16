@@ -1,0 +1,13 @@
+name,lat,lon,type
+AIIMS New Delhi,28.5672,77.2100,government
+Safdarjung Hospital,28.5685,77.2065,government
+Dr RML Hospital,28.6256,77.2012,government
+LNJP Hospital,28.6395,77.2385,government
+GTB Hospital,28.6835,77.3080,government
+Deen Dayal Upadhyay Hospital,28.6283,77.1117,government
+Sir Ganga Ram Hospital,28.6387,77.1895,private
+Max Super Speciality Saket,28.5275,77.2120,private
+Indraprastha Apollo,28.5412,77.2845,private
+Fortis Vasant Kunj,28.5190,77.1585,private
+Medanta Gurugram,28.4395,77.0425,private
+Fortis Noida,28.6190,77.3730,private

@@ -1,0 +1,8 @@
+pandas>=2.0
+numpy>=1.24
+streamlit>=1.40
+pytest>=7.0
+
+# osmnx, networkx, folium   (optional live road network)
+scikit-learn>=1.3
+scipy>=1.10
